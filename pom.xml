@@ -58,4 +58,8 @@
 		</plugins>
 	</build>
 
+	<packaging>pom</packaging>
+	<modules>
+		<module>ProjectB</module>
+	</modules>
 </project>
