@@ -61,5 +61,6 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>ProjectB</module>
+		<module>ProjectC</module>
 	</modules>
 </project>
